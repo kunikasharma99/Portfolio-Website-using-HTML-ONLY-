@@ -8,6 +8,8 @@ Who says websites cannot be created using HTML. Though CSS is a vital part of ad
 Adding The link to my Website :  http://127.0.0.1:5500/index.html (Works Fine on Microsoft Edge)
                                 
    http://127.0.0.1:5500/index.html (For Chrome Users )
+   
+   (Copy the link to Microsoft Edge to get a better experience of the videos in the Projects section :) )
                                  
 I have Also added small videos of my projects which give you a better understanding. Also the links to the source codes is also mentioned alongside.                                 
 
